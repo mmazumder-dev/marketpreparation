@@ -1,0 +1,7 @@
+util\BrowserFactory.class
+util\Database.class
+page\NewDepositPage.class
+page\BasePage.class
+util\Assertion.class
+page\DashBoardPage.class
+page\LoginPage.class
